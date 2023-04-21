@@ -11,9 +11,9 @@ With broad experience comes alot of things he remembers but might not be fully i
 # Work experience - "a slice"
 
 
-##Roughedge AB · Self-employed
-####Present
-####Remote
+## Roughedge AB · Self-employed
+#### Present
+#### Remote
 
 Providing expertise within Devops adoption, process and management.
 - What is devops for your organisation?
@@ -31,53 +31,52 @@ Clients:
 - Aktieinvest AB
 - McKinsey
 
-####Skills:
+#### Skills:
 Rust (Programming Language) · Microsoft Azure · Azure DevOps · Terraform · Continuous Integration · Troubleshooting · Cloud Computing · Virtualization · Software Development · Amazon Web Services (AWS) · Google Cloud Platform (GCP) · Git · Docker · CircleCI · Node.js · Linux · Bash · Kubernetes · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · FinTech · ITIL Process
 
-##NearForm
-####5 years
-##DevOps Engineer
-####Remote
+## NearForm
+#### 5 years
+## DevOps Engineer
+#### Remote
 
 I enabled our customers and development teams to deploy on multiple cloud providers and technology stacks, utilizing tools such as kubernetes, terraform, ansible and supporting programming language to create automation pipelines and delivery tools. Also supporting development teams with implementing automated testing, deployment strategies and process for the implementation of devops in the organisations.
 
-####Skills:
+#### Skills:
 Microsoft Azure · Azure DevOps · Terraform · Continuous Integration · Troubleshooting · Cloud Computing · Virtualization · Software Development · Amazon Web Services (AWS) · Google Cloud Platform (GCP) · Git · Docker · CircleCI · Linux · Bash · Kubernetes · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · ITIL Process
 
-##Freelance Contractor
-###1.5 year
+## Freelance Contractor
+### 1.5 year
 
 As a freelance contractor i focused on working with automation tools suchs as terraform, ansible and kubernetes on multiple cloud providers. Utilizing bash, node.js and python scripts to create automation support tools and automation pipelines.
 
-####Skills:
+#### Skills:
 Microsoft Azure · Azure DevOps · Terraform · Continuous Integration · Troubleshooting · Cloud Computing · Virtualization · Software Development · Amazon Web Services (AWS) · Google Cloud Platform (GCP) · Git · Docker · CircleCI · Node.js · Linux · MySQL · Bash · Kubernetes · DevOps · Continuous Integration and Continuous Delivery (CI/CD)
 
-##Schibsted Sverige
-####2 years
-##Senior Software Developer
+## Schibsted Sverige
+#### 2 years
+## Senior Software Developer
 
 Teamleader and Code coach for my particular team doing development in Node.JS in first hand.Teamleader and Code coach for my particular team doing development in Node.JS in first hand.
 
-####Skills:
+#### Skills:
 Microsoft Azure · Azure DevOps · Troubleshooting · Cloud Computing · Virtualization · E-commerce · Amazon Web Services (AWS) · Google Cloud Platform (GCP) · Git · Docker · Node.js · Linux · MySQL · BashSkills: Microsoft Azure · Azure DevOps · Troubleshooting · Cloud Computing · Virtualization · E-commerce · Amazon Web Services (AWS) · Google Cloud Platform (GCP) · Git · Docker · Node.js · Linux · MySQL · Bash
 
-##Kundkraft Sverige AB
-####7 years
-##CTO
+## Kundkraft Sverige AB
+#### 7 years
+## CTO
 Making sure the development team and IT platform runs smoothly. Planning and project leading new ventures within Kundkraft IT. Making it possible for the company to expand into new markets now and in the future.Making sure the development team and IT platform runs smoothly. Planning and project leading new ventures within Kundkraft IT. Making it possible for the company to expand into new markets now and in the future.
 
-####Skills:
+#### Skills:
 Microsoft Azure · Troubleshooting · Virtualization · FinTech · (╯°□°）╯︵ ┻━┻ · ITIL Process
 
-##Lead developer
-
+## Lead developer
 Working with developing the management tools, marketing platform for Kundkraft's two brands kundkraft.se and elpriser.se. Developing in node.js, php and golang as early adopters of those technologies and also moving into virtualization and containersation.Working with developing the management tools, marketing platform for Kundkraft's two brands kundkraft.se and elpriser.se. Developing in node.js, php and golang as early adopters of those technologies and also moving into virtualization and containersation.
 
-####Skills:
+#### Skills:
 Microsoft Azure · Troubleshooting · Virtualization · E-commerce · Git · Docker · Node.js · Linux · MySQL · BashSkills: Microsoft Azure · Troubleshooting · Virtualization · E-commerce · Git · Docker · Node.js · Linux · MySQL · Bash
 
-##Roughedge
-####11 years
+## Roughedge
+#### 11 years
 Small single man business, doing rapid prototyping of web based systems. Sales and project management around the projects my company had. This was the first iteration of the company i now have restarted.
 
 Customers:
@@ -85,7 +84,7 @@ Lenson, Lensway, Kundkraft, TV.nu, Lendo, Suredo, Fullkontroll, Aboveall, Impera
 Small single man business, doing rapid prototyping of web based systems.
 Sales and project management around the projects my company had.
 
-####Skills:
+#### Skills:
 Microsoft Azure · Troubleshooting · Virtualization · E-commerce · Software Development · Linux
 
 # Skill matrixes
