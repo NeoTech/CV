@@ -123,7 +123,7 @@ Operating within a Linux environment, I harnessed the power of this open-source 
 As I reflect upon this period of my career, I am proud of the breadth and depth of my skills in PHP and JavaScript development. I am confident that these skills, coupled with my entrepreneurial spirit and commitment to excellence, will continue to drive my success in the ever-evolving landscape of web development.
 
 #### Skills:
-Microsoft Azure · Troubleshooting · Virtualization · E-commerce · Software Development · Linux
+PHP · Mysql · Perl · C++ · Node.JS · Python · Sybase · VPS hosting · vSphere · KVM · LXC (precontainers) · Troubleshooting · Virtualization · E-commerce · Software Development · Linux · Early cloud adoption of AWS, Azure
 
 # Skill matrixes
 
