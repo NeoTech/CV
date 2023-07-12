@@ -34,7 +34,9 @@ Clients:
 - Definitive healthcare / monocl
 - - Techstack: Java, Python, AWS, Elastic, Datalake, Kubernetes, Gitlab, Featuredriven namespaces.
 - Aktieinvest AB
+- - Techstack: Onprem, Java, Python, Rust, C++, Postgresql, Elasticsearch, Kibana, Docker containers, Ansible, SSH PPPD, Keycloak
 - McKinsey
+- - Techstack: Azure, Azure Devops, Gitlab, Python, Java, R#, Terraform, Ansible, Observability toolings, Datadog, Kibana, Docker containers
 
 #### Skills:
 Rust (Programming Language) · Microsoft Azure · Azure DevOps · Terraform · Continuous Integration · Troubleshooting · Cloud Computing · Virtualization · Software Development · Amazon Web Services (AWS) · Google Cloud Platform (GCP) · Git · Docker · CircleCI · Node.js · Linux · Bash · Kubernetes · DevOps · Continuous Integration and Continuous Delivery (CI/CD) · FinTech · ITIL Process
