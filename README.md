@@ -19,16 +19,27 @@ In conclusion, Andreas's extensive experience, technical prowess, and innate pro
 #### Present
 #### Remote
 
-Providing expertise within Devops adoption, process and management.
-- What is devops for your organisation?
-- How will devops help you get a more stable output and quality product.
-- What technology decisions do you need to make for making your developers deliver more.
-- Is cloud for us, or are we fine in an on prem setup.
-- Experience with ISO 20xxx, ISO 27xxx, ISO 13xxx, ISO9xxx, SOC2 compliance, GDPR and PCI compliance.
+Discover Your Organization's Full Potential with DevOps Expertise!
 
-Devops is not a engineering role - and we can help you define, what Devops is for your company and how you adopt its mindset, practices and processes to make your whole staff, become an effective devops team.
+Are you eager to unlock the true potential of your organization's development, process management, and overall efficiency? I'm thrilled to tell you that your search ends here! As a member of our dedicated team of DevOps experts, I am personally committed to guiding you through an incredible transformative journey towards DevOps adoption.
 
-Technical leadership around change management with devops in mind is provided on a consultancy basis. I can help your team or organisation move towards a more flexible way of acting around development, delivery and the process that comes with it.
+Unleash the Power of DevOps:
+Are you curious about what DevOps can do for your organization? Let me personally unravel its extraordinary potential and show you how it can elevate your productivity, stability, and the quality of your products. Say goodbye to unpredictability and embrace a future where excellence becomes the norm.
+
+Empower Your Developers:
+I firmly believe that strategic technology decisions are key to unlocking your development team's full potential. That's why I'm here to help you navigate the intricate landscape and make the right choices that will empower your developers to deliver with unprecedented efficiency.
+
+Cloud or On-Premises? The Decision is Yours:
+Feeling uncertain about whether to migrate to the cloud or stick with an on-premises setup? Rest assured, I will personally analyze your unique requirements and guide you towards the most suitable solution. Together, we'll achieve scalability, security, and cost-effectiveness while staying true to your business goals.
+
+Compliance and Security at the Core:
+For me, ensuring compliance with ISO 20xxx, ISO 27xxx, ISO 13xxx, ISO 9xxx, SOC2, GDPR, and PCI standards is not just a task – it's a responsibility I take seriously. Your organization's data and processes will be safeguarded with utmost care, instilling peace of mind and fostering customer trust.
+
+DevOps is More Than an Engineering Role:
+I understand deeply that DevOps transcends the boundaries of a single role. It's a mindset, a collection of practices, and a transformative force that empowers your entire staff. Together, we will work closely to define what DevOps means specifically for your company, allowing every team member to become a driving force of effectiveness and collaboration.
+
+Consultancy for Technological Leadership:
+Embracing change and embracing DevOps requires effective change management. That's where my personal expertise in consultancy comes in. I will provide the necessary technical leadership to guide your organization towards a more agile and flexible approach to development, delivery, and processes. Together, we'll lay a solid foundation for a successful and future-proof strategy.
 
 Clients:
 - Definitive healthcare / monocl
