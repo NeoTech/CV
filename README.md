@@ -1,11 +1,15 @@
 # Introduction
-Andreas is a senior professional within the IT space of systems development, deployment and security.
-With a broade experience base primarily out of Ecommerce and Fintech companies for the past 20+ years has he shown resilience and proactivity in several companies over the years.
+Meet Andreas, an exceptional senior professional in the IT industry with a strong focus on systems development, deployment, and security. With over 20 years of experience primarily gained from leading roles in Ecommerce and Fintech companies, Andreas has consistently demonstrated resilience and proactivity throughout his career.
 
-Andreas focus is to provide clear technical leadership, praxis and pragmatic approach to problem solving. There is rarely a blocker it is just a matter of being able to consume information fast enough in his mind.
+Andreas's main goal is to provide clear technical leadership and a practical, pragmatic approach to problem-solving. He thrives on overcoming challenges, believing that there are rarely any obstacles that cannot be surmounted; it's merely a matter of absorbing information swiftly and efficiently.
 
-Alot of Andreas Experience comes from his background as a freelancer both as fulltime hire and as a Consultant in his own company.
-With broad experience comes alot of things he remembers but might not be fully in memory at all times. A truly jack of all trades within the field stemming from a time where the developer had to sit on all the seats and wear all the hats at the same time in the world of startups of early 2000s.
+Having spent a significant portion of his career as a freelancer, both as a full-time hire and as a consultant in his own company, Andreas brings a wealth of experience to the table. While he may not have every detail at the forefront of his mind at all times, his extensive knowledge base allows him to recall a multitude of concepts and solutions. Andreas truly embodies the spirit of a "jack of all trades" within his field, a testament to the demanding environment of early 2000s startups where developers had to occupy multiple roles simultaneously.
+
+Throughout his career, Andreas has continuously honed his expertise in IT systems development, deployment, and security. His comprehensive skill set encompasses various aspects of the industry, allowing him to seamlessly transition between roles and responsibilities. From architecting robust systems to implementing stringent security measures, Andreas possesses a deep understanding of the intricacies involved in building reliable and secure IT infrastructures.
+
+Moreover, Andreas's leadership qualities have earned him a reputation for fostering collaborative environments that drive innovation and deliver results. By cultivating effective communication channels, he ensures that cross-functional teams remain aligned and motivated to achieve their goals.
+
+In conclusion, Andreas's extensive experience, technical prowess, and innate problem-solving abilities make him an invaluable asset to any freelance hiring agency. His proven track record of success and his adaptability to evolving industry trends position him as a trusted partner in driving business growth and ensuring client satisfaction.
 
 
 # Work experience - "a slice"
