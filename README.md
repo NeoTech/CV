@@ -32,6 +32,7 @@ Technical leadership around change management with devops in mind is provided on
 
 Clients:
 - Definitive healthcare / monocl
+- - Techstack: Java, Python, AWS, Elastic, Datalake, Kubernetes, Gitlab, Featuredriven namespaces.
 - Aktieinvest AB
 - McKinsey
 
