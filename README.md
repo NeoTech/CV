@@ -104,6 +104,22 @@ Throughout my tenure, I had the privilege of collaborating with esteemed organiz
 
 As I embark on the next chapter of my career, I am confident that the valuable insights and expertise garnered from my past endeavors will serve as a strong foundation for continued success.
 
+During the period between 2001 and 2010, I delved into the dynamic world of PHP and JavaScript development, gaining extensive expertise in these technologies. My proficiency in PHP and JavaScript allowed me to create robust and scalable web solutions, meeting the ever-evolving demands of the digital landscape.
+
+With a focus on Microsoft Azure, I harnessed the power of cloud computing to deliver efficient and reliable web applications. Leveraging Azure's capabilities, I seamlessly integrated various services and components, ensuring optimal performance and scalability for my clients' projects.
+
+As a meticulous problem solver, troubleshooting became an inherent part of my skill set. I honed my ability to identify and resolve complex technical issues, ensuring seamless functionality and minimizing downtime for web-based systems. Whether it was debugging code, diagnosing server-related challenges, or optimizing performance, I consistently demonstrated my dedication to delivering top-notch solutions.
+
+Virtualization emerged as a key aspect of my skill set during this period. By leveraging virtualization technologies, I effectively maximized hardware resources, enhanced server performance, and facilitated the smooth operation of web applications. Through virtualization, I provided cost-effective and scalable solutions, ensuring optimal utilization of computing resources.
+
+E-commerce became an integral part of my repertoire, as I successfully developed and implemented secure and user-friendly online shopping platforms. By utilizing industry-standard e-commerce frameworks and integrating secure payment gateways, I enabled my clients to establish robust online businesses and drive revenue growth.
+
+Software development was at the core of my skill set during this timeframe. I embraced agile methodologies, ensuring streamlined development cycles and rapid deployment of web-based applications. By adhering to best practices and employing innovative approaches, I consistently delivered high-quality software solutions tailored to meet the specific needs of each client.
+
+Operating within a Linux environment, I harnessed the power of this open-source operating system to create stable and secure web solutions. My proficiency in Linux administration, coupled with my expertise in PHP and JavaScript, allowed me to optimize server performance, implement robust security measures, and ensure seamless operation of web applications.
+
+As I reflect upon this period of my career, I am proud of the breadth and depth of my skills in PHP and JavaScript development. I am confident that these skills, coupled with my entrepreneurial spirit and commitment to excellence, will continue to drive my success in the ever-evolving landscape of web development.
+
 #### Skills:
 Microsoft Azure · Troubleshooting · Virtualization · E-commerce · Software Development · Linux
 
