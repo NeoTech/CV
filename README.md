@@ -106,7 +106,9 @@ As I embark on the next chapter of my career, I am confident that the valuable i
 
 During the period between 2001 and 2010, I delved into the dynamic world of PHP and JavaScript development, gaining extensive expertise in these technologies. My proficiency in PHP and JavaScript allowed me to create robust and scalable web solutions, meeting the ever-evolving demands of the digital landscape.
 
-With a focus on Microsoft Azure, I harnessed the power of cloud computing to deliver efficient and reliable web applications. Leveraging Azure's capabilities, I seamlessly integrated various services and components, ensuring optimal performance and scalability for my clients' projects.
+During my career, I focused on virtualization technologies like vSphere, KVM, and LXC to deliver efficient and scalable web applications. By utilizing these platforms, I seamlessly integrated various services and components, ensuring optimal performance and flexibility for my clients' projects. With vSphere, I virtualized server environments to maximize efficiency and resource allocation. I leveraged KVM's open-source nature and Linux kernel integration to create secure and scalable virtualized environments. Additionally, I employed LXC to achieve rapid application deployment and isolated runtime environments. By adapting to each client's specific needs, I consistently delivered high-performing web applications.
+
+As the cloud computing landscape evolves, I remain committed to staying ahead of emerging technologies. Through my expertise in virtualization platforms, I can tackle future challenges and provide cutting-edge solutions for clients' web development requirements.
 
 As a meticulous problem solver, troubleshooting became an inherent part of my skill set. I honed my ability to identify and resolve complex technical issues, ensuring seamless functionality and minimizing downtime for web-based systems. Whether it was debugging code, diagnosing server-related challenges, or optimizing performance, I consistently demonstrated my dedication to delivering top-notch solutions.
 
